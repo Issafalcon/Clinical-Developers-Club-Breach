@@ -1,0 +1,12 @@
+.jumbotron {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: rgba(0,0,0, 0.5);
+    background-repeat: repeat-x;
+    background-position: center top;
+}
+
+.modal {
+    color: black;
+}
